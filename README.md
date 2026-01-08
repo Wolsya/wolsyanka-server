@@ -3,7 +3,7 @@
 **Версия сборки:** 1.2  
 **Последнее обновелние:** 08.01.2026
 
-## Информация о сборке
+## Информация о сборке:
 
 *   **Создатель:** [wolsya](https://github.com/wolsya)
 *   **Отдельная благодарность:** Майп-Майп:3 и Фыр-Фыр :3
@@ -19,6 +19,12 @@
 8. [Storage Drawers](https://github.com/jaquadro/StorageDrawers)
 9. [WAILA](https://github.com/Dennisbonke/WAILA)
 10. [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3876772)
+
+## Скачать сборку:
+
+* **[Последняя версия](https://github.com/Wolsya/wolsyanka-server/releases/latest)**
+* **[Посмотреть все версии](https://github.com/Wolsya/wolsyanka-server/releases/)**
+
 
 ## Подключение к серверу:
 
