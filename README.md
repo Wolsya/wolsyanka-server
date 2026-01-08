@@ -28,4 +28,5 @@
 ## Примечание:
 
 > **RU:** *Данный репозиторий содержит только описание сборки. Права на все моды принадлежат их оригинальным авторам.*
+
 > **EN:** *This repository contains only a description of the build. The rights to all mods belong to their original authors.*
