@@ -1,14 +1,15 @@
-# Сборка
+# Сборка | Modpack
 
-**Версия сборки:** 1.2  
-**Последнее обновелние:** 08.01.2026
+**Версия | Version:** 1.2  
+**Последнее обновелние | Last Updated:** 08.01.2026
 
-## Информация о сборке:
+## Информация | Information:
 
-*   **Создатель:** [wolsya](https://github.com/wolsya)
-*   **Отдельная благодарность:** Майп-Майп:3 и Фыр-Фыр :3
+* **Версия майнкрафта | Minecraft version:** Minecraft 1.7.10 [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.7.10.html)
+*   **Создатель | Creator:** [wolsya](https://github.com/wolsya)
+*   **Отдельная благодарность | Special thanks:** Майп-Майп:3 и Фыр-Фыр :3
 
-## Список модов:
+## Моды | Mods:
 1. [SecurityCraft](https://github.com/Geforce132/SecurityCraft)
 2. [BetterPingDisplay](https://github.com/vladmarica/better-ping-display)
 3. [CodeChickenCore](https://github.com/Chicken-Bones/CodeChickenCore)
@@ -20,12 +21,12 @@
 9. [WAILA](https://github.com/Dennisbonke/WAILA)
 10. [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3876772)
 
-## Скачать сборку:
+## Скачать сборку | Download Modpack:
 
-* **[Последняя версия](https://github.com/Wolsya/wolsyanka-server/releases/latest)**
-* **[Посмотреть все версии](https://github.com/Wolsya/wolsyanka-server/releases/)**
+* **[Последняя версия | Latest version](https://github.com/Wolsya/wolsyanka-server/releases/latest)**
+* **[Посмотреть все версии | View all versions](https://github.com/Wolsya/wolsyanka-server/releases/)**
 
-## Примечание:
+## Примечание | Note:
 
 > **RU:** *Данный репозиторий содержит только описание сборки. Права на все моды принадлежат их оригинальным авторам.*
 
